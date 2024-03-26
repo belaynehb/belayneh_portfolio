@@ -6,22 +6,20 @@
 #hero {
     height: 100vh;
 }
-#about {
+#about, #projects, #contact {
     height: 100vh;
-    padding-top: 5rem !important;   
-}
-#resume {
-    height: 190vh;
     padding-top: 5rem !important;
+      
 }
-#projects {
+
+/* #projects {
     height: 120vh;
     padding-top:5rem;
 }
 #contact {
     height: 100vh;
     padding-top: 5rem;
-}
+} */
 .about_content {
     display: flex;
     justify-content: space-between;
