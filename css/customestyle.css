@@ -1,4 +1,40 @@
-.projects-row1 {
+/* .projects-row1 {
     display: flex;
     justify-content: space-evenly;
+} */
+
+#hero {
+    height: 100vh;
+}
+#about {
+    height: 100vh;
+    padding-top: 5rem !important;   
+}
+#resume {
+    height: 190vh;
+    padding-top: 5rem !important;
+}
+#projects {
+    height: 120vh;
+    padding-top:5rem;
+}
+#contact {
+    height: 100vh;
+    padding-top: 5rem;
+}
+.about_content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.about_image{
+    flex:1;
+    width: 100%;
+    
+    
+}
+.about_text{
+    flex:1;
+    width: 100%;
+    
 }
